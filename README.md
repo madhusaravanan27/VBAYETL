@@ -36,11 +36,11 @@ Track the history of bids placed on items.
 
 The Bus Matrix helps define the relationships between business processes and data dimensions. It helps organize data requirements for various business processes, allowing for easy integration between business processes and data dimensions.
 
-## **Dimensional Model**:
+ 1. **Dimensional Model**:
 
 The project uses a dimensional model to simplify database queries and optimize performance. This structure is designed to make querying more intuitive for end-users, especially for reporting and analysis tasks.
 
-## **Dimension Tables**:
+ 2. **Dimension Tables**:
 The following dimension tables were created to support the VBAY business processes:
 
 - DIM_DATE:
@@ -55,7 +55,7 @@ Contains details about buyers and sellers on the VBAY platform.
 - DIM_VB_ZIP_CODES:
 Stores geographical information to support location-based analysis.
 
-**Fact Tables**:
+3. **Fact Tables**:
 
 The following fact tables were created to store quantitative data for VBAY's business processes:
 
