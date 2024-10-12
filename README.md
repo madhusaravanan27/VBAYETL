@@ -21,11 +21,9 @@ By centralizing the data in a structured manner, the project provides insights t
 ## **Business Processes**
 
 1.**Ratings and Review Analysis**:
-
 Track the average ratings and reviews for buyers and sellers.
 
 2.**Location Analysis:**
-
 Analyze seller locations and item types based on zip codes.
 
 3.**Sales Process:**
