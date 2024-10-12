@@ -60,19 +60,15 @@ Stores geographical information to support location-based analysis.
 The following fact tables were created to store quantitative data for VBAY's business processes:
 
 - Location Analysis Fact Table:
-  
-Tracks location-based data and integrates with the DIM_VB_ZIP_CODES table.
+  Tracks location-based data and integrates with the DIM_VB_ZIP_CODES table.
 
 - Sales Process Fact Table:
-  
-Stores data related to sales transactions from the VBAY platform.
+  Stores data related to sales transactions from the VBAY platform.
 
 - Bidding Process Fact Table:
-  
-Records the history of bids placed on VBAY items.
+  Records the history of bids placed on VBAY items.
 
 - Lineage Graph:
-  
-A lineage graph was created to visually represent the flow of data from the source to the final reporting layers. This graph helps track dependencies between tables and models.
+  A lineage graph was created to visually represent the flow of data from the source to the final reporting layers. This graph helps track dependencies between tables and models.
 
 
